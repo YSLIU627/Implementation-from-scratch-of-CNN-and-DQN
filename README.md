@@ -3,4 +3,4 @@ This is the project for the Machine Learning course in USTC. The detailed requir
 
 In brief, one is required to build neural network to solve the reinforcement learning problems in Atari Games nearly from scratch (Some packages are forbidden, like nn.Module). And there two kinds of Atari Games: Lunarlander(1d-problem) and Riverraid(2d-problem) and obviously the latter one is more complicated.
 
-In this project, for the 1d problem, I simply build neural network totally based on Numpy, while for the second problem, due to complexity of CNN, I implemented some basic Pytorch packages (like Tensor) and optimized all the back propagation process so that the task can be solved in the accepted time. 
+In this project, for the 1d problem, I simply built neural network totally based on Numpy, while for the second problem, due to complexity of CNN, I implemented some basic Pytorch packages (like Tensor) and optimized all the back propagation process so that the task can be solved in the accepted time. 
